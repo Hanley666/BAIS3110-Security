@@ -1,0 +1,7 @@
+C:\Users\cpiershanley1\source\repos\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\cpiershanley1\source\repos\WebApplication1\bin\WebApplication1.dll
+C:\Users\cpiershanley1\source\repos\WebApplication1\bin\WebApplication1.pdb
+C:\Users\cpiershanley1\source\repos\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\cpiershanley1\source\repos\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\cpiershanley1\source\repos\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\cpiershanley1\source\repos\WebApplication1\obj\Debug\WebApplication1.pdb
